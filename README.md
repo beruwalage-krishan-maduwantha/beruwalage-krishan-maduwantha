@@ -1,9 +1,6 @@
-Here's your updated README content with the name changed to **Beruwalage Krishan Maduwantha** throughout, including references in links and badges:
-
-````md
 <div align="center">
 
-# 🚀 Beruwalage Krishan Maduwantha
+# 🚀 Krishan Maduwantha
 
 ### `Front-End Developer` • `Creative Coder` • `Cloud Enthusiast`
 
@@ -19,43 +16,44 @@ Here's your updated README content with the name changed to **Beruwalage Krishan
 
 ## 🎯 About Me
 
-> *\"Code is like humor. When you have to explain it, it's bad.\"* – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate **Front-End Developer** from Sri Lanka 🇱🇰, dedicated to crafting pixel-perfect, user-centric web experiences. With a keen eye for design and a love for clean code, I transform ideas into interactive digital solutions.
+I'm a passionate **Front-End Developer** based in Kalutara, Western Province, Sri Lanka 🇱🇰. I specialize in creating responsive, user-friendly web applications using modern technologies. With a strong foundation in HTML5, CSS3, and JavaScript, I'm constantly expanding my skillset to include cloud technologies and advanced frameworks.
+
+My journey in web development is driven by a passion for clean code, intuitive design, and creating digital experiences that make a difference in users' lives.
 
 ```javascript
-const beruwalageKrishanMaduwantha = {
-    location: "Kalutara, Sri Lanka 🌴",
-    currentFocus: ["Responsive Design", "Modern JavaScript", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    motto: "Write code that tells a story"
+const krishan = {
+    location: "Kalutara, Western Province, Sri Lanka 🌴",
+    currentRole: "Front-End Developer",
+    currentFocus: ["Responsive Design", "Modern JavaScript", "AWS Cloud Services"],
+    workingOn: "Building accessible web experiences",
+    funFact: "I believe great UX starts with understanding user needs 🎯",
+    motto: "Clean code, beautiful interfaces, seamless experiences"
 };
-````
+```
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### **Core Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -76,11 +74,13 @@ const beruwalageKrishanMaduwantha = {
 
 ### 🌟 Project Highlights
 
-| Project                     | Description                           | Tech Stack                  | Links                                                                                                   |
-| --------------------------- | ------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **🎯 Portfolio Website**    | Modern, responsive personal portfolio | HTML5, CSS3, JavaScript     | [Live](https://your-portfolio.com) • [Code](https://github.com/beruwalage-krishan-maduwantha/your-repo) |
-| **🛒 E-Commerce Dashboard** | Admin panel with real-time analytics  | React, Chart.js, CSS3       | [Live](https://demo-link.com) • [Code](https://github.com/beruwalage-krishan-maduwantha/your-repo)      |
-| **📱 Weather App**          | Location-based weather application    | JavaScript, API Integration | [Live](https://demo-link.com) • [Code](https://github.com/beruwalage-krishan-maduwantha/your-repo)      |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🌐 [Project Name]** | [Add your project description] | HTML5, CSS3, JavaScript | [Live](#) • [Code](#) |
+| **💼 [Project Name]** | [Add your project description] | [Your tech stack] | [Live](#) • [Code](#) |
+| **📱 [Project Name]** | [Add your project description] | [Your tech stack] | [Live](#) • [Code](#) |
+
+> **Note:** Please replace the placeholder project information above with your actual projects from your GitHub repositories.
 
 </div>
 
@@ -103,21 +103,23 @@ learning_path:
 
 ## 🏆 Achievements & Certifications
 
-* 🎓 **AWS Cloud Practitioner** (In Progress)
-* 🏅 **freeCodeCamp Responsive Web Design**
-* 📜 **JavaScript Algorithms and Data Structures**
-* ⭐ **100+ GitHub Contributions** this year
+- ⭐ **Active GitHub Contributor** - Consistent open source contributions
+- 🎯 **AWS Cloud Services** - Currently learning cloud deployment
+- 📚 **Self-Taught Developer** - Continuously expanding skillset
+- 🌟 **[Add your certifications]** - Replace with your actual achievements
+
+> **Note:** Please add your actual certifications, courses completed, or achievements here.
 
 ## 💡 Fun Facts
 
 <details>
 <summary>Click to expand!</summary>
 
-* 🌙 I'm a night owl - my best code comes after 10 PM
-* ☕ Coffee consumption directly correlates with code quality
-* 🎮 I believe good games teach great UX principles
-* 🎨 I design in Figma before I code
-* 📚 Currently reading: "Clean Code" by Robert C. Martin
+- 🌙 I'm a night owl - my best code comes after 10 PM
+- ☕ Coffee consumption directly correlates with code quality
+- 🎮 I believe good games teach great UX principles
+- 🎨 I design in Figma before I code
+- 📚 Currently reading: "Clean Code" by Robert C. Martin
 
 </details>
 
@@ -137,9 +139,9 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ### 📬 Get In Touch
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishanmaduwantha2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐱_Follow_on_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishanmaduwantha2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐱_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ---
 
@@ -150,6 +152,3 @@ I'm always excited to work on innovative projects and connect with fellow develo
 *Built with ❤️ using Markdown*
 
 </div>
-```
-
-If you want, I can help you make this into a single `.md` file for easy copying. Would you like me to do that?
