@@ -66,6 +66,7 @@ const krishan = {
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **🎯 Portfolio Website** | Modern, responsive personal portfolio | HTML5, CSS3 | [Live](https://your-portfolio.com) • [Code](https://beruwalage-krishan-maduwantha.github.io/portfolio/)|
+| **🎯 BKM Arcade** | Modern, responsive personal portfolio | HTML5, CSS3 | [Live](https://your-portfolio.com) • [Code](https://beruwalage-krishan-maduwantha.github.io/portfolio/)|
 
 
 </div>
