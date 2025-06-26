@@ -65,7 +65,7 @@ const krishan = {
 
 | Project | Description | Tech Stack |    Links    |
 |---------|-------------|------------|-------------|
-| **🎯 Portfolio Website** | Modern, responsive personal portfolio | HTML5, CSS3 | [Live](https://your-portfolio.com)  •  [Code](https://beruwalage-krishan-maduwantha.github.io/portfolio/)|
+| **🎯 Portfolio Website** | Modern, responsive personal portfolio | HTML5, CSS3 | [Live](http://krishan-maduwantha-beruwalage-portfolio.s3-website.eu-north-1.amazonaws.com)  •  [Code](https://beruwalage-krishan-maduwantha.github.io/portfolio/)|
 | **🎯 BKM Arcade** |web-based arcade with mini-games like Snake, Plane Shooter, and Rock-Paper-Scissors. | HTML5, CSS3 ,Vanilla JavaScript| [Live](http://bkm-arcade-site.s3-website.eu-north-1.amazonaws.com)  • [Code](https://github.com/beruwalage-krishan-maduwantha/BKM-Arcade.git)|
 
 
