@@ -22,7 +22,7 @@ I'm a passionate **Front-End Developer** from Sri Lanka 🇱🇰, dedicated to c
 
 ```javascript
 const krishan = {
-    location: "Kalutara, Sri Lanka 🌴",
+    location: "Batapola,Galle Sri Lanka 🌴",
     currentFocus: ["Responsive Design", "Modern JavaScript", "Cloud Architecture"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     motto: "Write code that tells a story"
@@ -39,17 +39,10 @@ const krishan = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ### **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -72,9 +65,8 @@ const krishan = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🎯 Portfolio Website** | Modern, responsive personal portfolio | HTML5, CSS3, JavaScript | [Live](https://your-portfolio.com) • [Code](https://github.com/your-repo) |
-| **🛒 E-Commerce Dashboard** | Admin panel with real-time analytics | React, Chart.js, CSS3 | [Live](https://demo-link.com) • [Code](https://github.com/your-repo) |
-| **📱 Weather App** | Location-based weather application | JavaScript, API Integration | [Live](https://demo-link.com) • [Code](https://github.com/your-repo) |
+| **🎯 Portfolio Website** | Modern, responsive personal portfolio | HTML5, CSS3 | [Live](https://your-portfolio.com) • [Code](https://beruwalage-krishan-maduwantha.github.io/portfolio/)|
+
 
 </div>
 
@@ -82,18 +74,18 @@ const krishan = {
 
 ```yaml
 learning_path:
-  - name: "Advanced React Patterns"
-    progress: "75%"
-    focus: ["Hooks", "Context API", "Performance Optimization"]
-  
-  - name: "Cloud Architecture"
-    progress: "60%"
-    focus: ["AWS Services", "Serverless", "CI/CD Pipelines"]
-  
-  - name: "UI/UX Design"
-    progress: "45%"
-    focus: ["Design Systems", "Accessibility", "User Research"]
-```
+  - name: "React.js Basics"
+    progress: "10%"
+    focus: ["JSX", "Components", "Props & State"]
+
+  - name: "Web Development Foundations"
+    progress: "80%"
+    focus: ["HTML", "CSS", "JavaScript", "Project Building"]
+
+  - name: "Web Hosting"
+    progress: "30%"
+    focus: ["AWS EC2", "S3 Static Hosting", "Domain Configuration"]
+
 
 ## 🏆 Achievements & Certifications
 
@@ -111,7 +103,7 @@ learning_path:
 - ☕ Coffee consumption directly correlates with code quality
 - 🎮 I believe good games teach great UX principles
 - 🎨 I design in Figma before I code
-- 📚 Currently reading: "Clean Code" by Robert C. Martin
+-
 
 </details>
 
@@ -133,7 +125,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishanmaduwantha2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐱_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/krishan-maduwantha-a6181b302/))
 
 ---
 
