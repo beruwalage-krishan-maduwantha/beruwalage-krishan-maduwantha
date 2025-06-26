@@ -99,7 +99,6 @@ learning_path:
 
 <details>
 <summary>Click to expand!</summary>
-
 - 🌙 I'm a night owl - my best code comes after 10 PM
 - ☕ Coffee consumption directly correlates with code quality
 - 🎮 I believe good games teach great UX principles
