@@ -1,50 +1,50 @@
 <!-- GitHub Profile README.md -->
 
-# 👋 Hi there, I'm Krishan Maduwantha!
+# 👋 Hello, I'm Krishan Maduwantha
 
-### 💻 Front-End Enthusiast | 🎨 Creative Coder | 🌱 Lifelong Learner  
-*Pronouns: he/him*
+### Front-End Developer | Creative Coder | Continuous Learner  
 
----
-
-## 🧑‍💻 About Me
-
-I'm passionate about web development and enjoy building interactive, user-friendly, and visually appealing websites.  
-I primarily work with:
-
-- 🧱 HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript (Vanilla JS)
-
-Always eager to learn, I spend time exploring new tools and frameworks, improving UI/UX, and staying updated with web trends.
 
 ---
 
-## 🚀 What I'm Learning
+## 🚀 About Me
 
-- 📱 Responsive Design Techniques  
-- 🔧 DOM Manipulation & JS Logic  
-- ☁️ Hosting with AWS (EC2, S3)
+Passionate about crafting sleek, responsive, and accessible web experiences that delight users.  
+I specialize in writing clean, efficient, and maintainable code with a focus on:
+
+- **HTML5** — Semantic markup for solid foundations  
+- **CSS3** — Modern styling, animations, and layouts  
+- **JavaScript (ES6+)** — Dynamic interactions and logic
+
+I continuously sharpen my skills by exploring the latest front-end frameworks, UI/UX best practices, and cloud hosting solutions.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔭 What I'm Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+- Responsive & Mobile-First Design  
+- Advanced JavaScript & DOM APIs  
+- Cloud Deployment & AWS Services (EC2, S3, Lambda)
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-- Email: `krishanmaduwantha2003@gmail.com`  
-- GitHub: [github.com/yourusername](https://github.com/beruwalage-krishan-maduwantha/beruwalage-krishan-maduwantha)
+[![Gmail Badge](https://img.shields.io/badge/-krishanmaduwantha2003@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:krishanmaduwantha2003@gmail.com)](mailto:krishanmaduwantha2003@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/beruwalage-krishan-maduwantha)](https://github.com/beruwalage-krishan-maduwantha)
 
 ---
 
-_Thanks for stopping by! Have a great day 😊_
+_Thank you for visiting my profile! Let's build amazing things together._
