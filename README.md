@@ -42,8 +42,8 @@ Always eager to learn, I spend time exploring new tools and frameworks, improvin
 
 ## 📫 Connect With Me
 
-- Email: `your-email@example.com`  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: `krishanmaduwantha2003@gmail.com`  
+- GitHub: [github.com/yourusername](https://github.com/beruwalage-krishan-maduwantha/beruwalage-krishan-maduwantha)
 
 ---
 
