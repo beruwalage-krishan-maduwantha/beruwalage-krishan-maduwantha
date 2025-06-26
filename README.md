@@ -104,8 +104,6 @@ learning_path:
 - ☕ Coffee consumption directly correlates with code quality
 - 🎮 I believe good games teach great UX principles
 - 🎨 I design in Figma before I code
--
-
 </details>
 
 ## 📊 Weekly Development Breakdown
@@ -114,7 +112,7 @@ learning_path:
 JavaScript   12 hrs 15 mins  ████████████████████▓   82.1%
 CSS          2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░   16.8%
 HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░    1.1%
-```
+```/text
 
 ## 🤝 Let's Collaborate!
 
