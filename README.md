@@ -1,50 +1,82 @@
-<!-- GitHub Profile README.md -->
+<div align="center">
 
-# 👋 Hello, I'm Krishan Maduwantha
+# 🚀 Krishan Maduwantha
 
-### Front-End Developer | Creative Coder | Continuous Learner  
+### `Front-End Developer` • `Creative Coder` • `Cloud Enthusiast`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Beautiful+Web+Experiences;Clean+Code+%7C+Modern+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
 
----
-
-## 🚀 About Me
-
-Passionate about crafting sleek, responsive, and accessible web experiences that delight users.  
-I specialize in writing clean, efficient, and maintainable code with a focus on:
-
-- **HTML5** — Semantic markup for solid foundations  
-- **CSS3** — Modern styling, animations, and layouts  
-- **JavaScript (ES6+)** — Dynamic interactions and logic
-
-I continuously sharpen my skills by exploring the latest front-end frameworks, UI/UX best practices, and cloud hosting solutions.
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=webflow&logoColor=white)](https://beruwalage-krishan-maduwantha.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beruwalage-krishan-maduwantha)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishanmaduwantha2003@gmail.com)
 
 ---
 
-## 🔭 What I'm Currently Learning
+</div>
 
-- Responsive & Mobile-First Design  
-- Advanced JavaScript & DOM APIs  
-- Cloud Deployment & AWS Services (EC2, S3, Lambda)
+## 🎯 About Me
 
----
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-## 🛠️ Technologies & Tools
+I'm a dedicated **Front-End Developer** from Sri Lanka 🇱🇰 with a passion for building responsive, accessible, and engaging web experiences. My approach centers on writing clean, efficient code while creating modern UI designs that users love.
 
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+```javascript
+const krishan = {
+    location: "Kalutara, Sri Lanka 🌴",
+    expertise: ["HTML5", "CSS3", "JavaScript (ES6+)", "AWS Cloud"],
+    interests: ["Responsive Design", "UI/UX Enhancements", "Cloud Hosting & Deployment"],
+    motto: "Write code that tells a story"
+};
+🛠️ Tech Arsenal
+<div align="center">
+Core Technologies
 
----
 
-## 📫 Let’s Connect
 
-[![Gmail Badge](https://img.shields.io/badge/-krishanmaduwantha2003@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:krishanmaduwantha2003@gmail.com)](mailto:krishanmaduwantha2003@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/beruwalage-krishan-maduwantha)](https://github.com/beruwalage-krishan-maduwantha)
 
----
+Cloud & Tools
 
-_Thank you for visiting my profile! Let's build amazing things together._
+
+
+
+</div>
+📈 GitHub Stats
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beruwalage-krishan-maduwantha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beruwalage-krishan-maduwantha&layout=compact&langs_count=6&theme=tokyonight" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=beruwalage-krishan-maduwantha&theme=tokyonight" alt="GitHub Streak" /> </div>
+🌱 Currently Learning
+yaml
+Copy
+Edit
+learning_path:
+  - name: "Advanced Responsive Web Design"
+    progress: "70%"
+    focus: ["Mobile-First CSS", "Flexbox & Grid", "Performance Optimization"]
+
+  - name: "JavaScript Deep Dive"
+    progress: "60%"
+    focus: ["ES6+", "Asynchronous JS", "DOM Manipulation"]
+
+  - name: "Cloud Deployment"
+    progress: "50%"
+    focus: ["AWS EC2 & S3", "Serverless Functions", "CI/CD Pipelines"]
+🎨 Featured Projects
+<div align="center">
+Project	Description	Tech Stack	Links
+BKM Arcade	Responsive mini games arcade site	HTML5, CSS3, JavaScript	Live Demo • Code
+Portfolio Website	Personal portfolio & blog	HTML5, CSS3, JavaScript	Live • Code
+Music Download Site	AI-generated music download portal	HTML, CSS, JS, AWS Hosting	Live • Code
+
+</div>
+🤝 Let's Collaborate!
+I’m open to new challenges and exciting projects. If you want to work together or discuss ideas, feel free to connect with me!
+
+<div align="center">
+📬 Get In Touch
+
+
+
+<img src="https://komarev.com/ghpvc/?username=beruwalage-krishan-maduwantha&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+⭐ If you like my work, consider starring my repositories!
+
+Built with ❤️ using Markdown
+
+</div> ```
