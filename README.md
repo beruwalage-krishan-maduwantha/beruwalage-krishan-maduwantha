@@ -82,10 +82,32 @@ const krishan = {
 
 ## 🚀 Featured Projects
 
-<!-- You can add your featured projects here -->
 <div align="center">
-  
-🌟 **Coming Soon** - Exciting projects in development! 🌟
+
+### 🎮 BKM Arcade
+*Interactive gaming platform with multiple classic games*
+<br>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-live-demo-link.com) 
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-arcade)
+
+### 🎨 CodeBrushFX
+*50+ mini open-source applications collection*
+<br>
+*Soon with Android/iOS compatibility*
+<br>
+[![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange?style=for-the-badge&logo=rocket)]()
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/codebrushfx)
+
+### 🎵 BKM Music Library
+*Personal music management and streaming application*
+<br>
+[![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange?style=for-the-badge&logo=music)]()
+
+### 💼 Portfolio Website
+*Personal portfolio showcasing my work and skills*
+<br>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com) 
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
 
 </div>
 
