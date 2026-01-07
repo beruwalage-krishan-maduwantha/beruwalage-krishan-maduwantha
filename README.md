@@ -1,118 +1,149 @@
-# Hi there, I'm Krishan Maduwantha Beruwlage 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineering+Student;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+# 👋 Hey, I'm Krishan Maduwantha Beruwlage
+
+### Full-Stack Developer | Software Engineering Student | Problem Solver
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Exploring+AI+%26+game+development;Crafting+elegant+user+experiences;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in front-end technologies and an expanding expertise in back-end development. I love crafting clean, responsive, and interactive web experiences that solve real-world problems.
+## 🎯 About Me
 
-- 🎓 Currently pursuing **Higher Diploma in Software Engineering** at Cardiff Metropolitan University
-- 💻 Specializing in modern web technologies and full-stack development
-- 🌱 Actively learning and experimenting with new technologies
-- 🎯 Building impactful applications that blend creative design with scalable logic
-- 🔬 Working on open-source projects, game development, and AI-integrated tools
+I'm a passionate developer who loves turning ideas into reality through code. Currently pursuing a **Higher Diploma in Software Engineering** at Cardiff Metropolitan University, I specialize in building full-stack applications that combine beautiful design with powerful functionality.
 
-## 🛠️ Tech Stack
+🔭 **Currently working on:** Full-stack web applications and open-source contributions  
+🌱 **Learning:** Advanced Node.js, MongoDB, and MySQL  
+🎮 **Exploring:** Game development and AI-integrated tools  
+💡 **Philosophy:** Clean code, creative solutions, continuous improvement  
 
-### Frontend Development
+---
+
+## 🛠️ Technology Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend
+```javascript
+const frontend = {
+  languages: ['HTML5', 'CSS3', 'JavaScript'],
+  frameworks: ['React'],
+  styling: ['Responsive Design', 'Modern UI/UX'],
+  focus: 'Interactive & Accessible Experiences'
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Backend
+```javascript
+const backend = {
+  runtime: 'Node.js',
+  framework: 'Express.js',
+  databases: ['MongoDB', 'MySQL'],
+  focus: 'Scalable & Efficient APIs'
+};
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beruwalage-krishan-maduwantha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beruwalage-krishan-maduwantha&layout=compact&langs_count=7&theme=tokyonight"/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=beruwalage-krishan-maduwantha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
-</div>
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=beruwalage-krishan-maduwantha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beruwalage-krishan-maduwantha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beruwalage-krishan-maduwantha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 </div>
-
-## 🔥 Current Focus
-
-```javascript
-const krishan = {
-    currentlyLearning: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-    workingOn: ["Full-Stack Web Applications", "Open Source Projects"],
-    interests: ["Game Development", "AI Integration", "Web Tools"],
-    goals: ["Master Full-Stack Development", "Contribute to Open Source"],
-    funFact: "I love blending creativity with logic to build meaningful applications"
-};
-```
-
-## 📈 Activity Graph
 
 <div align="center">
-  
-[![Krishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beruwalage-krishan-maduwantha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://streak-stats.demolab.com?user=beruwalage-krishan-maduwantha&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beruwalage-krishan-maduwantha&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beruwalage-krishan-maduwantha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎮 BKM Arcade
-*Interactive gaming platform with multiple classic games*
-<br>
-[![Live Demo]((https://beruwalage-krishan-maduwantha.github.io/BKM-Arcade/))]
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-arcade)
+<table>
+<tr>
+<td width="50%">
 
+### 🎮 BKM Arcade
+**Interactive Gaming Platform**
+
+A collection of classic games built with vanilla JavaScript, featuring smooth animations and engaging gameplay.
+
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/BKM-Arcade/)
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-arcade)
+
+</td>
+<td width="50%">
 
 ### 💼 Portfolio Website
-*Personal portfolio showcasing my work and skills*
-<br>
-[![Live Demo]((https://beruwalage-krishan-maduwantha.github.io/portfolio/))]
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
+**Personal Showcase**
+
+A modern, responsive portfolio highlighting my projects, skills, and professional journey.
+
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/portfolio/)
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-maduwantha-a6181b302/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
+**Open to collaborations, opportunities, and interesting conversations!**
 
-</div>
-
-## 💭 Quote
-
-<div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-maduwantha-a6181b302/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -120,10 +151,14 @@ const krishan = {
 
 <div align="center">
 
-**Thanks for visiting my profile! 🚀**
+### 💭 Developer's Wisdom
 
-![Profile Views](https://komarev.com/ghpvc/?username=beruwalage-krishan-maduwantha&color=blue&style=flat-square)
+*"The best error message is the one that never shows up." - Thomas Fuchs*
 
-⭐️ From [Krishan Maduwantha Beruwlage](https://github.com/beruwalage-krishan-maduwantha)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=beruwalage-krishan-maduwantha&color=3B82F6&style=flat-square&label=Profile+Views)
+
+**Thanks for stopping by! Let's build something amazing together.** 🚀
 
 </div>
