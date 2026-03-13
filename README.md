@@ -104,6 +104,18 @@ const backend = {
 <tr>
 <td width="50%">
 
+### 🎵 BKM Music Library
+**Full-Stack Music Streaming App**
+
+A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chakra UI
+
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-music-library)
+
+</td>
+<td width="50%">
+
 ### 🎮 BKM Arcade
 **Interactive Gaming Platform**
 
@@ -115,6 +127,8 @@ A collection of classic games built with vanilla JavaScript, featuring smooth an
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-arcade)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💼 Portfolio Website
@@ -126,6 +140,18 @@ A modern, responsive portfolio highlighting my projects, skills, and professiona
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/portfolio/)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
+
+</td>
+<td width="50%">
+
+### 🛒 MERN Crash Course
+**Product Store App**
+
+A full-stack product management app built while learning the MERN stack — featuring CRUD operations, REST API, and Chakra UI.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Chakra UI
+
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha)
 
 </td>
 </tr>
