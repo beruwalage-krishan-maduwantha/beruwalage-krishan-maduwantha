@@ -125,7 +125,7 @@ A collection of classic games built with vanilla JavaScript, featuring smooth an
 **Tech Stack:** HTML5, CSS3, JavaScript
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/BKM-Arcade/)
-[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-arcade)
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/BKM-Arcade)
 
 </td>
 </tr>
@@ -133,13 +133,13 @@ A collection of classic games built with vanilla JavaScript, featuring smooth an
 <td width="50%">
 
 ### 💼 Portfolio Website
-**Personal Showcase**
+**React Portfolio**
 
-A modern, responsive portfolio highlighting my projects, skills, and professional journey.
+A modern, responsive personal portfolio built with React, Vite, and CSS Modules. Showcases projects, skills, and professional journey with smooth animations.
 
-**Tech Stack:** HTML5, CSS3, JavaScript
+**Tech Stack:** React, Vite, CSS Modules, React Icons
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/portfolio/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://bkm-portfolio-flax.vercel.app/)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
 
 </td>
@@ -170,7 +170,7 @@ A full-stack product management app built while learning the MERN stack — feat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-maduwantha-a6181b302/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beruwalage-krishan-maduwantha)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishanmaduwantha2003@gmail.com)
 
 </div>
 
