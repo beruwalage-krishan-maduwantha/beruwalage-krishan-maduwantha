@@ -107,9 +107,10 @@ const backend = {
 ### 🎵 BKM Music Library
 **Full-Stack Music Streaming App**
 
-A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI. Deployed on Vercel & Railway.
+A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chakra UI
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chakra UI  
+**Deployed:** Vercel (Frontend) + Railway (Backend) + MongoDB Atlas
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://bkm-music-library.vercel.app)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-music-library)
@@ -122,7 +123,8 @@ A complete MERN stack music library with an admin dashboard, JWT authentication,
 
 A collection of classic games built with vanilla JavaScript, featuring smooth animations and engaging gameplay.
 
-**Tech Stack:** HTML5, CSS3, JavaScript
+**Tech Stack:** HTML5, CSS3, JavaScript  
+**Deployed:** GitHub Pages
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://beruwalage-krishan-maduwantha.github.io/BKM-Arcade/)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/BKM-Arcade)
@@ -135,9 +137,10 @@ A collection of classic games built with vanilla JavaScript, featuring smooth an
 ### 💼 Portfolio Website
 **React Portfolio**
 
-A modern, responsive personal portfolio built with React, Vite, and CSS Modules. Showcases projects, skills, and professional journey with smooth animations.
+A modern, responsive personal portfolio built with React and Vite. Showcases projects, skills, and professional journey with smooth animations and CSS Modules.
 
-**Tech Stack:** React, Vite, CSS Modules, React Icons
+**Tech Stack:** React, Vite, CSS Modules, React Icons  
+**Deployed:** Vercel
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://bkm-portfolio-flax.vercel.app/)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/portfolio)
@@ -150,13 +153,28 @@ A modern, responsive personal portfolio built with React, Vite, and CSS Modules.
 
 A full-stack product management app built while learning the MERN stack — featuring CRUD operations, REST API, and Chakra UI.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Chakra UI
+**Tech Stack:** React, Node.js, Express, MongoDB, Chakra UI  
+**Deployed:** Local / Learning Project
 
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/mern-crash-course)
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## ☁️ Deployment Stack
+
+<div align="center">
+
+| Project | Frontend | Backend | Database |
+|---------|----------|---------|----------|
+| BKM Music Library | Vercel | Railway | MongoDB Atlas |
+| Portfolio | Vercel | — | — |
+| BKM Arcade | GitHub Pages | — | — |
 
 </div>
 
