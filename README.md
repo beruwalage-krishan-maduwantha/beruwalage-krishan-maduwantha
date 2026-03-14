@@ -107,10 +107,11 @@ const backend = {
 ### 🎵 BKM Music Library
 **Full-Stack Music Streaming App**
 
-A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI.
+A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI. Deployed on Vercel & Railway.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chakra UI
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://bkm-music-library.vercel.app)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-music-library)
 
 </td>
@@ -151,7 +152,7 @@ A full-stack product management app built while learning the MERN stack — feat
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Chakra UI
 
-[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha)
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/mern-crash-course)
 
 </td>
 </tr>
