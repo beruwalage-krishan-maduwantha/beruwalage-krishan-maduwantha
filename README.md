@@ -32,7 +32,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 const frontend = {
   languages: ['HTML5', 'CSS3', 'JavaScript'],
   frameworks: ['React'],
-  styling: ['Responsive Design', 'Modern UI/UX'],
+  styling: ['Tailwind CSS', 'Bootstrap', 'Responsive Design'],
   focus: 'Interactive & Accessible Experiences'
 };
 ```
@@ -44,8 +44,8 @@ const frontend = {
 ```javascript
 const backend = {
   runtime: 'Node.js',
-  framework: 'Express.js',
-  databases: ['MongoDB', 'MySQL'],
+  frameworks: ['Express.js', 'Laravel'],
+  databases: ['MongoDB', 'MySQL', 'SQLite'],
   focus: 'Scalable & Efficient APIs'
 };
 ```
@@ -62,8 +62,12 @@ const backend = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -96,7 +100,7 @@ const backend = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
 <div align="center">
 
@@ -110,7 +114,7 @@ const backend = {
 A complete MERN stack music library with an admin dashboard, JWT authentication, live audio player, search & genre filtering, and AI-generated music via Producer AI.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chakra UI  
-**Deployed:** Vercel (Frontend) + Railway (Backend) + MongoDB Atlas
+**Deployed:** Vercel + Railway + MongoDB Atlas
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge)](https://bkm-music-library.vercel.app)
 [![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bkm-music-library)
@@ -166,6 +170,55 @@ A full-stack product management app built while learning the MERN stack — feat
 
 ---
 
+## 🎓 Academic Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+
+### 🛍️ Bloom & Vogue
+**Final Year Project — Smart Shopping App**
+
+A full-stack smart shopping web application with AI-powered outfit recommendations and virtual try-on. Built as Backend Lead in a 6-member team.
+
+**Tech Stack:** Laravel 11, React 18, MySQL, Tailwind CSS, REST API
+
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/bloom-and-vogue)
+
+</td>
+<td width="33%">
+
+### 🎓 SkillPro Institute
+**Web Application Development Project**
+
+A complete PHP institute management system with 4 user roles — Admin, Instructor, Student, and Public. Features course enrollment, payments, and assignment management.
+
+**Tech Stack:** PHP, MySQL, Bootstrap 5, HTML5, CSS3, JavaScript
+
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/skillpro-institute)
+
+</td>
+<td width="33%">
+
+### 🌿 EcoStay Retreat
+**Mobile Application Development Project**
+
+A native Android app for eco-friendly retreat booking and management with local SQLite database storage and intuitive mobile UI.
+
+**Tech Stack:** Java, Android SDK, SQLite, Android Studio
+
+[![Source](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/beruwalage-krishan-maduwantha/ecostay-retreat)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## ☁️ Deployment Stack
 
 <div align="center">
@@ -175,6 +228,9 @@ A full-stack product management app built while learning the MERN stack — feat
 | BKM Music Library | Vercel | Railway | MongoDB Atlas |
 | Portfolio | Vercel | — | — |
 | BKM Arcade | GitHub Pages | — | — |
+| Bloom & Vogue | — | Local/Laravel | MySQL |
+| SkillPro Institute | — | Local/PHP | MySQL |
+| EcoStay Retreat | Android APK | — | SQLite |
 
 </div>
 
